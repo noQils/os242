@@ -6,17 +6,12 @@ permalink: LINKS/
 
 # LINKS
 
-* [Operating Systems](https://os.vlsm.org/){:target="_blank"} ---
-  This site contains links to lecture materials, exam questions, and laboratory materials.
-* [System Programming](https://sp.vlsm.org/){:target="_blank"} ---
-  This site is based on “Google Here, Google There, Try This, Try That, and then Ask Anybody.
-* [Operating Systems Programming Weekly Assignments](https://demos.vlsm.org/){:target="_blank"} ---
-  The Deadline is 7 (seven) days after the assignment was announced.
-* [Operating Systems Programming Slides](https://docos.vlsm.org/){:target="_blank"} ---
-  Slides with LaTeX sources code.
-* [Linux Crash Course - Easy Terminal Commands for Inspecting Hardware](https://youtu.be/oGyJr-iUwt8?si=59V2boc0XfmlFekg){:target="_blank"} ---
-Some easy-to-use commands you can use to inspect hardware. 
-These commands will help you list PCI devices, view information about your CPU, and more.
+* [Neso Academy Youtube Playlist - About Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O){:target="_blank"} ---
+  This youtube playlist provides complete, detailed, easy-to-understand explanation about operating system.
+* [Operating System by GeeksForGeeks](https://www.geeksforgeeks.org/operating-systems/){:target="_blank"} ---
+  This web contains complete reading materials about operating system from basic to advanced.
+* [What is Linux?](https://www.linux.com/what-is-linux/){:target="_blank"} ---
+  This web from linux explains what you need to know about linux.
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00
