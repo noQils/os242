@@ -12,4 +12,5 @@ ZCZC W01 120 L31 Setup VirtualBox etc.
 ZCZC W01 30 L27 Added my SSH key to github
 ZCZC W01 90 L88 We Go GYM!!
 ZCZC W01 90 L70 Studied SDA
-ZCZC W01 30 L41 TXT/mylog.txt related.
+ZCZC W01 30 L41 TXT/mylog.txt related
+ZCZC W01 180 L09 Weekly Assignments
