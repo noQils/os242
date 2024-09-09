@@ -14,3 +14,4 @@ ZCZC W01 90 L88 We Go GYM!!
 ZCZC W01 90 L70 Studied SDA
 ZCZC W01 30 L41 TXT/mylog.txt related
 ZCZC W01 180 L09 Weekly Assignments
+ZCZC W02 60 L09 Weekly Assignments
