@@ -7,7 +7,7 @@ permalink: LINKS/
 # LINKS
 
 * [Neso Academy Youtube Playlist - About Operating System](https://www.youtube.com/playlist?list=PLBlnK6fEyqRiVhbXDGLXDk_OQAeuVcp2O){:target="_blank"} ---
-  This youtube playlist provides complete, detailed, easy-to-understand explanation about operating system.
+  This youtube playlist provides complete, detailed, and easy-to-understand explanation about operating system.
 * [Operating System by GeeksForGeeks](https://www.geeksforgeeks.org/operating-systems/){:target="_blank"} ---
   This web contains complete reading materials about operating system from basic to advanced.
 * [What is Linux?](https://www.linux.com/what-is-linux/){:target="_blank"} ---
