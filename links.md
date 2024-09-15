@@ -12,6 +12,10 @@ permalink: LINKS/
   This web contains complete reading materials about operating system from basic to advanced.
 * [What is Linux?](https://www.linux.com/what-is-linux/){:target="_blank"} ---
   This web from linux explains what you need to know about linux.
+* [Encrypting and Decrypting the Files Using GnuPG in Linux](https://www.geeksforgeeks.org/encrypting-and-decrypting-the-files-using-gnupg-in-linux/){:target="_blank"} ---
+  Contains explaination on how encrypting and decrypting files using GnuPG works in linux.
+* [Introduction to Linux Shell and Shell Scripting](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/){:target="_blank"} ---
+  This web introduces you about linux shell scripting.
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00
