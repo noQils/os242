@@ -16,6 +16,10 @@ permalink: LINKS/
   Contains explanation on how encrypting and decrypting files using GnuPG works in linux.
 * [Introduction to Linux Shell and Shell Scripting](https://www.geeksforgeeks.org/introduction-linux-shell-shell-scripting/){:target="_blank"} ---
   This web introduces you about linux shell scripting.
+* [How to Use VirtualBox](https://www.youtube.com/watch?v=nvdnQX9UkMY){:target="_blank"} ---
+  This youtube video gives tutorial on how to use VirtualBox for beginners.
+* [What is Tarball in Linux?](https://computing.help.inf.ed.ac.uk/FAQ/whats-tarball-or-how-do-i-unpack-or-create-tgz-or-targz-file){:target="_blank"} ---
+  This web explains briefly on what exactly tarball is.
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00

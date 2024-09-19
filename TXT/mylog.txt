@@ -26,3 +26,16 @@ ZCZC W02 20 L43 Reviewed links and added top 3 rank to TXT/myrank.txt
 ZCZC W02 7 L45 Updated TXT/SHA256SUM
 ZCZC W02 80 L32 YouTube: watching OS related topics, etc.
 ZCZC W02 120 L80 Watching Netflix
+ZCZC W03 100 L02 CLASSROOM
+ZCZC W03 60 L09 Assignment in General
+ZCZC W03 30 L64 Helping a friend (OS related problem)
+ZCZC W03 45 L81 Listening: Music
+ZCZC W03 90 L88 Workout
+ZCZC W03 20 L06 Browsing
+ZCZC W03 30 L32 YouTube: watching OS related topics
+ZCZC W03 30 L25 C-language including Make.
+ZCZC W03 10 L03 GitHub and git related, including commit, push
+ZCZC W03 45 L40 TXT/ related in general.
+ZCZC W03 30 L41 TXT/mylog.txt related.
+ZCZC W03 5 L43 TXT/myrank.tex related.
+ZCZC W03 45 L70 Studying for other courses.
