@@ -20,6 +20,12 @@ permalink: LINKS/
   This youtube video gives tutorial on how to use VirtualBox for beginners.
 * [What is Tarball in Linux?](https://computing.help.inf.ed.ac.uk/FAQ/whats-tarball-or-how-do-i-unpack-or-create-tgz-or-targz-file){:target="_blank"} ---
   This web explains briefly on what exactly tarball is.
+* [Short Introduction to Makefile for c](https://www3.nd.edu/~zxu2/acms60212-40212/Makefile.pdf){:target="_blank"} ---
+  This pdf file contains a short introduction to what a Makefile for c is.
+* [The Linux Programming Interface](https://man7.org/tlpi/){:target="_blank"} ---
+  This web contains informations about The Linux Programming Interface.
+* [FUSE — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html){:target="_blank"} ---
+  This web contains documentation about FUSE in linux.
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00
