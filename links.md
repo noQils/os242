@@ -26,6 +26,10 @@ permalink: LINKS/
   This web contains informations about The Linux Programming Interface.
 * [FUSE — The Linux Kernel documentation](https://www.kernel.org/doc/html/latest/filesystems/fuse.html){:target="_blank"} ---
   This web contains documentation about FUSE in linux.
+* [How to Securely Copy Files in Linux | scp Command](https://www.geeksforgeeks.org/scp-command-in-linux-with-examples/){:target="_blank"} ---
+  This explains what scp (secure copy protocol) is and how to use it.
+* [How does VirtualBox's memory usage work?](https://superuser.com/questions/66842/how-does-virtualboxs-memory-usage-work){:target="_blank"} ---
+  Discussion about memory usage in VirtualBox.
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00

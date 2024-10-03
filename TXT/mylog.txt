@@ -58,3 +58,21 @@ ZCZC W04 2 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W04 2 L45 TXT/SHA256SUM related
 ZCZC W04 15 L41 TXT/mylog.txt related.
 ZCZC W04 5 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 100 L02 CLASSROOM
+ZCZC W05 104 L09 Assignment in General
+ZCZC W05 7 L11 Assignment #01
+ZCZC W05 7 L12 Assignment #02
+ZCZC W05 30 L13 Assignment #03
+ZCZC W05 10 L14 Assignment #04
+ZCZC W05 30 L15 Assignment #05
+ZCZC W05 20 L16 Assignment #06
+ZCZC W05 30 L25 C-language including Make.
+ZCZC W05 10 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W05 20 L32 YouTube: watching OS related topics
+ZCZC W05 25 L40 TXT/ related in general.
+ZCZC W05 10 L41 TXT/mylog.txt related.
+ZCZC W05 5 L43 TXT/myrank.tex related, including peer review.
+ZCZC W05 3 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W05 3 L45 TXT/SHA256SUM related
+ZCZC W05 120 L70 Studying Alin for Quiz.
+ZCZC W05 90 L88 Workout
