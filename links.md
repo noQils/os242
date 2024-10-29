@@ -30,6 +30,10 @@ permalink: LINKS/
   This explains what scp (secure copy protocol) is and how to use it.
 * [How does VirtualBox's memory usage work?](https://superuser.com/questions/66842/how-does-virtualboxs-memory-usage-work){:target="_blank"} ---
   Discussion about memory usage in VirtualBox.
+* [What is the Debian? A free Linux OS](https://www.techtarget.com/searchdatacenter/definition/Debian){:target="_blank"} ---
+  Definition and explanation about Debian Linux.
+* [Shell Scripting for Beginners – How to Write Bash Scripts in Linux](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/){:target="_blank"} ---
+  Guide on how to write shell script for beginners.
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00

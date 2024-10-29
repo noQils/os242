@@ -76,3 +76,18 @@ ZCZC W05 3 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W05 3 L45 TXT/SHA256SUM related
 ZCZC W05 120 L70 Studying Alin for Quiz.
 ZCZC W05 90 L88 Workout
+ZCZC W06 100 L02 CLASSROOM/ZOOM meetings relatedL09 Assignment in General
+ZCZC W06 60 L09 Assignment in General
+ZCZC W06 5 L11 Assignment #01
+ZCZC W06 5 L12 Assignment #02
+ZCZC W06 5 L13 Assignment #03
+ZCZC W06 5 L14 Assignment #04
+ZCZC W06 10 L15 Assignment #05
+ZCZC W06 5 L26 GnuPG, key-gen, encrypt/decrypt.
+ZCZC W06 10 L40 TXT/ related in general.
+ZCZC W06 6 L41 TXT/mylog.txt related.
+ZCZC W06 2 L43 TXT/myrank.tex related, including peer review.
+ZCZC W06 1 L44 TXT/myscript.sh related. See also L25, L24.
+ZCZC W06 1 L45 TXT/SHA256SUM related
+ZCZC W06 60 L73 Gaming
+ZCZC W06 90 L88 Workout/Sport/Exercise/ETC.
