@@ -34,6 +34,10 @@ permalink: LINKS/
   Definition and explanation about Debian Linux.
 * [Shell Scripting for Beginners – How to Write Bash Scripts in Linux](https://www.freecodecamp.org/news/shell-scripting-crash-course-how-to-write-bash-scripts-in-linux/){:target="_blank"} ---
   Guide on how to write shell script for beginners.
+* [fork() in C](https://www.geeksforgeeks.org/fork-system-call/){:target="_blank"} ---
+  This website explain about what fork() is in C.
+* [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/){:target="_blank"} ---
+  Contains introduction to Process Synchronization in operating system.
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00
