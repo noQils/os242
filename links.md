@@ -38,6 +38,8 @@ permalink: LINKS/
   This website explain about what fork() is in C.
 * [Introduction of Process Synchronization](https://www.geeksforgeeks.org/introduction-of-process-synchronization/){:target="_blank"} ---
   Contains introduction to Process Synchronization in operating system.
+* [Welcome to Linux From Scratch!](https://www.linuxfromscratch.org){:target="_blank"} ---
+  Informations about Linux From Scratch (LFS). 
 <br>
 <br>
 #### REV: Wed 04 Sep 2024 21:00

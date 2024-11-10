@@ -100,8 +100,19 @@ ZCZC W07 20 L14 Assignment #04
 ZCZC W07 15 L40 TXT/ related in general.
 ZCZC W07 7 L41 TXT/mylog.txt related.
 ZCZC W07 1 L42 TXT/mypubkey.txt related. See also L27.
-ZCZC W07 5 L43 TXT/myrank.tex related, including peer review.
+ZCZC W07 5 L43 TXT/myrank.txt related, including peer review.
 ZCZC W07 1 L44 TXT/myscript.sh related. See also L25, L24.
 ZCZC W07 1 L45 TXT/SHA256SUM related
 ZCZC W07 30 L81 Listening: Music
 ZCZC W07 90 L88 Workout/Sport/Exercise/ETC.
+ZCZC W08 200 L02 CLASSROOM/ZOOM meetings related
+ZCZC W08 200 L09 Assignment in General
+ZCZC W08 10 L11 Assignment #01
+ZCZC W08 10 L12 Assignment #02
+ZCZC W08 165 L13 Assignment #03
+ZCZC W08 15 L14 Assignment #04
+ZCZC W08 15 L40 TXT/ related in general.
+ZCZC W08 10 L41 TXT/mylog.txt related.
+ZCZC W08 5 L43 TXT/myrank.txt related.
+ZCZC W08 120 L80 Waching: Movie, YouTube, TV, Netflix, etc.
+ZCZC W08 60 L81 Listening: Radio, Music, etc.
